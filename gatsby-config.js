@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "In The Know local",
+    title: "What I Know for Certain",
     titleTemplate: "%s",
-    description: "In The Know Local is a publication dedicated to showcasing incredible locals and their cities. Click on any of our covers and it will be easy to eat, drink, explore and shop like a local. Through short Q+A articles, we enliven your adventurous side and tempt you to dive into someone else’s city and discover all the joy and delight within.",
-    url: "https://www.intheknowlocal.com",
+    description: "What I know for Certian is a publication dedicated to showcasing incredible locals and their cities. Click on any of our covers and it will be easy to eat, drink, explore and shop like a local. Through short Q+A articles, we enliven your adventurous side and tempt you to dive into someone else’s city and discover all the joy and delight within.",
+    url: "https://www.whatiknowforcertain.com",
     image: "/images/icon.png",
     twitterUsername: "@influencefactor"
   },
@@ -40,8 +40,8 @@ module.exports = {
     {
       resolve: "gatsby-source-sanity",
       options: {
-        projectId: "wq57o41e",
-        dataset: "development",
+        projectId: "jmqmc1my",
+        dataset: "production",
       },
     },
     {

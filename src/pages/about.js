@@ -33,7 +33,7 @@ export default AboutPage
 
 export const query = graphql`
 query AboutPageQuery {
-    sanitySiteContent(_id: {eq: "78272e09-0638-4ded-958e-4a5a84646424"}) {
+    sanitySiteContent(_id: {eq: "b94b08cf-84ca-4296-a7da-7f7716e55de6"}) {
         aboutTitle
         aboutSubtitle
         aboutImage {
