@@ -1,0 +1,11 @@
+.issue__grid {
+  padding: 3rem 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30rem,1fr));
+  gap: 1rem;
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
